@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Generated files
-/index.json
-/orgs/
+build
