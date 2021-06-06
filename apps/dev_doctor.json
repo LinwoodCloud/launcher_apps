@@ -1,0 +1,15 @@
+{
+    "name": "Dev-Doctor",
+    "description": "Free, serverless, opensource learning platform",
+    "org": "LinwoodCloud",
+    "downloads": [
+        {
+            "type": "iframe",
+            "url": "https://dev-doctor.cf"
+        },
+        {
+            "type": "web",
+            "url": "https://dev-doctor.cf"
+        }
+    ]
+}
